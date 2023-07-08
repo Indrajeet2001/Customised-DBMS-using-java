@@ -395,21 +395,7 @@ class DBMS
     
 }
 
-// insert into student values Karan 69
-// insert into student values Arya 89
-// insert into student values Atharva 79
-// insert into student values Manu 78
-// insert into student values Arhat 85
-/*
-insert into student values Arya 69
-insert into student values Atharva 69
-insert into student values Maithily 69
-insert into student values Maithily 89
-insert into student values Piyush 85
-insert into student values Nigger 98
-insert into student values Arhat 89
-insert into student values Arya 85
-insert into student values Atharva 79
+
 insert into student values Atharva 97
 insert into student values Manu 78
 insert into student values Manu 98
