@@ -395,9 +395,3 @@ class DBMS
     
 }
 
-
-insert into student values Atharva 97
-insert into student values Manu 78
-insert into student values Manu 98
-insert into student values Arhat 85
-*/
